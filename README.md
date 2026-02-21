@@ -86,5 +86,12 @@ Data Modeling & Relationships
 Interactive Visualizations
 
 
+**Conclusion**
+
+
+
+This Power BI dashboard provides a quick and interactive overview of sales, profit, customer segments, and order trends. It helps identify top-performing categories, preferred shipping modes, and high-demand segments, enabling clear insights for better business and operational decisions.
+
+
 
 
